@@ -1,0 +1,13 @@
+# downloaded patch data, item recommendations, last game snapshot
+cache/
+# personal settings
+settings.json
+# demo helper output
+demo/contact_sheet.png
+# secrets (the Riot API key belongs in the RIOT_API_KEY environment variable)
+.env
+*.key
+# Python
+__pycache__/
+*.pyc
+.venv/
